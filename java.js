@@ -1070,7 +1070,7 @@ function checkLogin() {
         
         alert('ברוך הבא, ' + foundUser.firstName + '!');
         localStorage.setItem('currentUser', JSON.stringify(foundUser));
-        window.location.href = 'homepage.html';
+        window.location.href = 'index.html';
     });
 }
 
