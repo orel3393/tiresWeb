@@ -477,7 +477,7 @@ document.addEventListener("DOMContentLoaded", () => {
           });
         }
         localStorage.setItem("cart", JSON.stringify(cart));
-        showNotification("המוצר נוספה לעגלה! 🛒", "success");
+        showNotification("המוצר נוסף לעגלה! 🛒", "success");
       });
 
       marketDiv.append(addText, cartIcon);
