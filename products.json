@@ -1,0 +1,679 @@
+[
+  {
+    "name": "Zeix ZE310 - פאלקן",
+    "size": "205/55/R16 91V",
+    "description": "אחיזה גבוהה בגשם, ייצור ביפן",
+    "price": 325,
+    "brandImage": "image/falken.png",
+    "images": [
+      "image/tireF.png",
+      "image/energF.png"
+    ],
+    "link": "productPage1.html",
+    "id": 83548,
+    "title": "popular",
+    "brand": "falken",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "פאלקן הוא מותג יפני מוכר המתמחה בצמיגים איכותיים לביצועים טובים בכל תנאי דרך. פאלקן ידועה באחיזתה המעולה, בעיקר בגשם, ומציעה צמיגים בטכנולוגיה מתקדמת במחיר תחרותי.",
+    "manufacturingDate": "15/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "מותג סיני",
+    "size": "195/65/R15 91V",
+    "description": "עומד בתקן האירופאי",
+    "price": 250,
+    "brandImage": "image/Grenlander.png",
+    "images": [
+      "image/tireC.jpg",
+      "image/energC.jpg"
+    ],
+    "id": 91266,
+    "title": "popular",
+    "brand": "china",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מותג סיני המציע צמיגים במחירים נוחים עם עמידה בתקן האירופאי. צמיגים אלה מתאימים לשימוש יומיומי ומספקים איזון בין איכות למחיר עבור נהגים שמחפשים פתרון משתלם.",
+    "manufacturingDate": "28/24",
+    "roadGrip": "C"
+  },
+  {
+    "name": "מותג סיני",
+    "size": "205/60R16 92V",
+    "description": "עומד בתקן האירופאי",
+    "price": 275,
+    "brandImage": "image/ROADX.png",
+    "images": [
+      "image/tireC.jpg",
+      "image/energC.jpg"
+    ],
+    "id": 19299,
+    "title": "popular",
+    "brand": "china",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מותג סיני המציע צמיגים במחירים נוחים עם עמידה בתקן האירופאי. צמיגים אלה מתאימים לשימוש יומיומי ומספקים איזון בין איכות למחיר עבור נהגים שמחפשים פתרון משתלם.",
+    "manufacturingDate": "33/24",
+    "roadGrip": "C"
+  },
+  {
+    "name": "Eco contact6 - קונטיננטל",
+    "size": "215/55/R17 94V",
+    "description": "ייצור בגרמניה",
+    "price": 650,
+    "brandImage": "image/conti.png",
+    "images": [
+      "image/tire.png",
+      "image/energ.png"
+    ],
+    "id": 57929,
+    "title": "popular",
+    "brand": "continental",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "קונטיננטל היא חברה גרמנית מובילה בתחום הצמיגים עם מוניטין עולמי לאיכות ובטיחות. הצמיגים מתאפיינים בביצועים גבוהים, עמידות וחדשנות טכנולוגית, ומיועדים לרכבים פרטיים ומסחריים.",
+    "manufacturingDate": "07/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Eco contact6 - קונטיננטל",
+    "size": "205/50/R17 93V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 600,
+    "brandImage": "image/conti.png",
+    "images": [
+      "image/tire.png",
+      "image/energ.png"
+    ],
+    "link": "productPage4.html",
+    "id": 94349,
+    "title": "popular",
+    "brand": "continental",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "קונטיננטל היא חברה גרמנית מובילה בתחום הצמיגים עם מוניטין עולמי לאיכות ובטיחות. הצמיגים מתאפיינים בביצועים גבוהים, עמידות וחדשנות טכנולוגית, ומיועדים לרכבים פרטיים ומסחריים.",
+    "manufacturingDate": "12/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 4 - מישלין",
+    "size": "185/60/R15 88H",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 400,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 42771,
+    "title": "popular",
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "21/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "רייקן - מותג אירופאי",
+    "size": "185/65/R15 88H",
+    "description": "אחיזה גבוהה בגשם, ייצור בסרביה",
+    "price": 300,
+    "brandImage": "image/RIKEN.png",
+    "images": [
+      "image/tireR.jpg",
+      "image/energC.jpg"
+    ],
+    "id": 11457,
+    "title": "popular",
+    "brand": "riken",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "רייקן הוא מותג אירופאי המציע צמיגים איכותיים במחיר נגיש. הצמיגים מיוצרים בסרביה ומיועדים לספק אחיזה ובטיחות טובה לנהגים המחפשים פתרון כלכלי ויעיל.",
+    "manufacturingDate": "18/24",
+    "roadGrip": "B"
+  },
+  {
+    "name": "Ecopia EP150 - ברידג'סטון",
+    "size": "185/55/R15 86H",
+    "description": "אחיזה גבוהה בגשם, ייצור ביפן",
+    "price": 500,
+    "brandImage": "image/BRIDGESTONE.png",
+    "images": [
+      "image/tireb.jpg",
+      "image/energ.png"
+    ],
+    "id": 66502,
+    "title": "popular",
+    "brand": "bridgestone",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "ברידג'סטון הוא מותג יפני מוביל בעולם הצמיגים, המשלב טכנולוגיה מתקדמת ואיכות גבוהה. הצמיגים של ברידג'סטון מתמקדים בבטיחות, נוחות ויעילות צריכת דלק.",
+    "manufacturingDate": "35/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Pilot sport 4 - מישלין",
+    "size": "235/45/R18 98Y",
+    "description": "צמיג שקט עם ספוג - מקורי לטסלה",
+    "price": 1100,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 34982,
+    "title": "special",
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "09/25",
+    "roadGrip": "A",
+    "sponge": "עם ספוג"
+  },
+  {
+    "name": "Cinturato P7 - פירלי",
+    "size": "225/45/R17 91Y",
+    "description": "אחיזה גבוהה בגשם - ייצור באיטליה",
+    "price": 500,
+    "brandImage": "image/PIRELLI.png",
+    "images": [
+      "image/tireP.jpg",
+      "image/energ.png"
+    ],
+    "link": "productPage3.html",
+    "id": 77311,
+    "title": "special",
+    "brand": "pirelli",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "פירלי הוא מותג איטלקי יוקרתי המוכר בזכות צמיגים איכותיים וביצועים גבוהים. פירלי מתמחה בצמיגים לביצועים ספורטיביים ואחיזה מיטבית, ומשמש גם רכבי יוקרה ומכוניות ספורט.",
+    "manufacturingDate": "26/24",
+    "roadGrip": "B"
+  },
+  {
+    "name": "Ventos S1 - הנקוק",
+    "size": "235/40/R19 96W",
+    "description": "צמיג שקט עם ספוג - מקורי לטסלה",
+    "price": 1000,
+    "brandImage": "image/HANKOOK.png",
+    "images": [
+      "image/tireH.jpg",
+      "image/energ.png"
+    ],
+    "id": 94283,
+    "title": "special",
+    "brand": "hankook",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "הנקוק הוא מותג דרום קוריאני מוביל, המציע צמיגים איכותיים במחירים תחרותיים. הצמיגים מתאפיינים בטכנולוגיות מתקדמות, שקט בתנועה וביצועים טובים במגוון תנאי דרך.",
+    "manufacturingDate": "14/25",
+    "roadGrip": "B",
+    "sponge": "עם ספוג"
+  },
+  {
+    "name": "SP Sport - דנלופ",
+    "size": "215/45/R18 98Y",
+    "description": "אחיזה גבוהה בגשם -  מקורי למאזדה",
+    "price": 725,
+    "brandImage": "image/dunlop.png",
+    "images": [
+      "image/tireD.jpg",
+      "image/energF.png"
+    ],
+    "id": 63801,
+    "title": "special",
+    "brand": "dunlop",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "דנלופ הוא מותג בריטי עם מסורת ארוכה של ייצור צמיגים איכותיים. הצמיגים מתאפיינים באחיזה טובה, עמידות גבוהה וביצועים מצוינים בעיקר ברכבי ספורט ורכבים משפחתיים.",
+    "manufacturingDate": "40/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Zeix ZE310 - פאלקן",
+    "size": "195/65/R15 91V",
+    "description": "אחיזה גבוהה בגשם, ייצור ביפן",
+    "priceBefore": 1300,
+    "price": 1200,
+    "brandImage": "image/falken.png",
+    "images": [
+      "image/tireF.png",
+      "image/energF.png"
+    ],
+    "sale": true,
+    "id": 17364,
+    "brand": "falken",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "פאלקן הוא מותג יפני מוכר המתמחה בצמיגים איכותיים לביצועים טובים בכל תנאי דרך. פאלקן ידועה באחיזתה המעולה, בעיקר בגשם, ומציעה צמיגים בטכנולוגיה מתקדמת במחיר תחרותי.",
+    "manufacturingDate": "03/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "מותג סיני",
+    "size": "175/65/R14 82H",
+    "description": "עומד בתקן האירופאי",
+    "priceBefore": 1000,
+    "price": 900,
+    "brandImage": "image/i-Link.png",
+    "images": [
+      "image/tireC.jpg",
+      "image/energC.jpg"
+    ],
+    "sale": true,
+    "id": 76192,
+    "brand": "china",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "מותג סיני המציע צמיגים במחירים נוחים עם עמידה בתקן האירופאי. צמיגים אלה מתאימים לשימוש יומיומי ומספקים איזון בין איכות למחיר עבור נהגים שמחפשים פתרון משתלם.",
+    "manufacturingDate": "47/24",
+    "roadGrip": "C"
+  },
+  {
+    "name": "Zeix ZE310 - פאלקן",
+    "size": "225/65/R17 99H",
+    "description": "אחיזה גבוהה בגשם, ייצור ביפן",
+    "priceBefore": 2250,
+    "price": 2100,
+    "brandImage": "image/falken.png",
+    "images": [
+      "image/tireF.png",
+      "image/energF.png"
+    ],
+    "sale": true,
+    "id": 41827,
+    "brand": "falken",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "פאלקן הוא מותג יפני מוכר המתמחה בצמיגים איכותיים לביצועים טובים בכל תנאי דרך. פאלקן ידועה באחיזתה המעולה, בעיקר בגשם, ומציעה צמיגים בטכנולוגיה מתקדמת במחיר תחרותי.",
+    "manufacturingDate": "11/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "מותג סיני",
+    "size": "165/60/R14 82H",
+    "description": "עומד בתקן האירופאי",
+    "priceBefore": 1000,
+    "price": 900,
+    "brandImage": "image/SUNWIDE.png",
+    "images": [
+      "image/tireC.jpg",
+      "image/energC.jpg"
+    ],
+    "sale": true,
+    "id": 52048,
+    "brand": "china",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "מותג סיני המציע צמיגים במחירים נוחים עם עמידה בתקן האירופאי. צמיגים אלה מתאימים לשימוש יומיומי ומספקים איזון בין איכות למחיר עבור נהגים שמחפשים פתרון משתלם.",
+    "manufacturingDate": "23/24",
+    "roadGrip": "C"
+  },
+  {
+    "name": "Primacy 4 - מישלין",
+    "size": "185/65/R15 88H",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 400,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 95764,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "31/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 4 - מישלין",
+    "size": "195/65/R15 91V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 400,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "link": "productPage2.html",
+    "id": 83655,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "08/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Pilot sport 4 - מישלין",
+    "size": "225/45/R17 94W",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 900,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 27490,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "16/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Pilot sport 3 - מישלין",
+    "size": "245/45/R19 102Y",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 1000,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 19384,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "42/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Agilis 3 - מישלין",
+    "size": "195/75/R16C",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 700,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 88564,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "05/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Agilis 3 - מישלין",
+    "size": "205/75/R16C",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 700,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 60429,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "19/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 4 - מישלין",
+    "size": "205/55/R16 91V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 450,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 70219,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "37/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 4 - מישלין",
+    "size": "205/60/R16 92V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 475,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 30982,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "24/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 4 - מישלין",
+    "size": "195/55/R16 87V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 475,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 53017,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "13/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 3 - מישלין",
+    "size": "195/60/R16 89V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 500,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 96384,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "29/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Pilot sport 4 - מישלין",
+    "size": "225/45/R18 94W",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "price": 950,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "id": 27411,
+    "brand": "michelin",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "01/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 3 - מישלין",
+    "size": "165/60/R14 82V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "priceBefore": 1500,
+    "price": 1350,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "sale": true,
+    "id": 73290,
+    "brand": "falken",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "פאלקן הוא מותג יפני מוכר המתמחה בצמיגים איכותיים לביצועים טובים בכל תנאי דרך. פאלקן ידועה באחיזתה המעולה, בעיקר בגשם, ומציעה צמיגים בטכנולוגיה מתקדמת במחיר תחרותי.",
+    "manufacturingDate": "45/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 3 - מישלין",
+    "size": "155/65/R14 79T",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "priceBefore": 1400,
+    "price": 1300,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "sale": true,
+    "id": 40172,
+    "brand": "michelin",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "06/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 3 - מישלין",
+    "size": "185/70/R14 82V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "priceBefore": 1500,
+    "price": 1350,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "sale": true,
+    "id": 95310,
+    "brand": "michelin",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "38/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Primacy 3 - מישלין",
+    "size": "175/70/R14 82V",
+    "description": "אחיזה גבוהה בגשם, ייצור בגרמניה",
+    "priceBefore": 1550,
+    "price": 1400,
+    "brandImage": "image/michelin.png",
+    "images": [
+      "image/michelin tire.png",
+      "image/energ michlin.png"
+    ],
+    "sale": true,
+    "id": 67281,
+    "brand": "michelin",
+    "type": "רביעיית צמיגים",
+    "brandDescription": "מישלין הוא מותג צרפתי מוביל בעולם הצמיגים, ידוע בטכנולוגיות החדשניות שלו ובאיכות יוצאת הדופן. הצמיגים של מישלין מתאפיינים בביצועים גבוהים, עמידות ואחיזה מצוינת בכל תנאי דרך.",
+    "manufacturingDate": "22/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "מותג סיני",
+    "size": "225/60/R17 99H",
+    "description": "עומד בתקן האירופאי",
+    "price": 350,
+    "brandImage": "image/ROADX.png",
+    "images": [
+      "image/tireC.jpg",
+      "image/energC.jpg"
+    ],
+    "id": 19300,
+    "brand": "china",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מותג סיני המציע צמיגים במחירים נוחים עם עמידה בתקן האירופאי. צמיגים אלה מתאימים לשימוש יומיומי ומספקים איזון בין איכות למחיר עבור נהגים שמחפשים פתרון משתלם.",
+    "manufacturingDate": "41/24",
+    "roadGrip": "C"
+  },
+  {
+    "name": "מותג סיני",
+    "size": "185/60/R15 84H",
+    "description": "עומד בתקן האירופאי",
+    "price": 250,
+    "brandImage": "image/ROADX.png",
+    "images": [
+      "image/tireC.jpg",
+      "image/energC.jpg"
+    ],
+    "id": 19301,
+    "brand": "china",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "מותג סיני המציע צמיגים במחירים נוחים עם עמידה בתקן האירופאי. צמיגים אלה מתאימים לשימוש יומיומי ומספקים איזון בין איכות למחיר עבור נהגים שמחפשים פתרון משתלם.",
+    "manufacturingDate": "17/25",
+    "roadGrip": "C"
+  },
+  {
+    "name": "Zeix ZE310 - פאלקן",
+    "size": "215/55/R17 94V",
+    "description": "אחיזה גבוהה בגשם, ייצור ביפן",
+    "price": 475,
+    "brandImage": "image/falken.png",
+    "images": [
+      "image/tireF.png",
+      "image/energF.png"
+    ],
+    "link": "productPage1.html",
+    "id": 83549,
+    "brand": "falken",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "פאלקן הוא מותג יפני מוכר המתמחה בצמיגים איכותיים לביצועים טובים בכל תנאי דרך. פאלקן ידועה באחיזתה המעולה, בעיקר בגשם, ומציעה צמיגים בטכנולוגיה מתקדמת במחיר תחרותי.",
+    "manufacturingDate": "30/24",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Zeix ZE310 - פאלקן",
+    "size": "185/65/15 88H",
+    "description": "אחיזה גבוהה בגשם, ייצור ביפן",
+    "price": 300,
+    "brandImage": "image/falken.png",
+    "images": [
+      "image/tireF.png",
+      "image/energF.png"
+    ],
+    "link": "productPage1.html",
+    "id": 83550,
+    "brand": "falken",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "פאלקן הוא מותג יפני מוכר המתמחה בצמיגים איכותיים לביצועים טובים בכל תנאי דרך. פאלקן ידועה באחיזתה המעולה, בעיקר בגשם, ומציעה צמיגים בטכנולוגיה מתקדמת במחיר תחרותי.",
+    "manufacturingDate": "04/25",
+    "roadGrip": "A"
+  },
+  {
+    "name": "Zeix ZE310 - פאלקן",
+    "size": "215/70/R16 100H",
+    "description": "אחיזה גבוהה בגשם, ייצור ביפן",
+    "price": 450,
+    "brandImage": "image/falken.png",
+    "images": [
+      "image/tireF.png",
+      "image/energF.png"
+    ],
+    "link": "productPage1.html",
+    "id": 83551,
+    "brand": "falken",
+    "type": "צמיג בודד",
+    "sale": false,
+    "brandDescription": "פאלקן הוא מותג יפני מוכר המתמחה בצמיגים איכותיים לביצועים טובים בכל תנאי דרך. פאלקן ידועה באחיזתה המעולה, בעיקר בגשם, ומציעה צמיגים בטכנולוגיה מתקדמת במחיר תחרותי.",
+    "manufacturingDate": "20/25",
+    "roadGrip": "A"
+  }
+]
