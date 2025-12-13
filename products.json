@@ -407,14 +407,13 @@
     "name": "Eco contact6 - קונטיננטל",
     "size": "195/65/R15 91V",
     "description": "ייצור בגרמניה",
-    "price": 650,
+    "price": 450,
     "brandImage": "image/conti.png",
     "images": [
       "image/tire.png",
       "image/energ.png"
     ],
     "id": 537929,
-    "title": "popular",
     "brand": "continental",
     "type": "צמיג בודד",
     "sale": false,
@@ -423,7 +422,7 @@
     "roadGrip": "A"
   },
     {
-    "name": "ContiSportContact 7 - קונטיננטל",
+    "name": "SportContact 7 - קונטיננטל",
     "size": "215/40/R18 89W",
     "description": "ייצור בגרמניה",
     "price": 800,
@@ -433,7 +432,6 @@
       "image/energ.png"
     ],
     "id": 500029,
-    "title": "popular",
     "brand": "continental",
     "type": "צמיג בודד",
     "sale": false,
